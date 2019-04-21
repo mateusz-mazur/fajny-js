@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Programmer's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusz-mazur/fajny-js.git"
+  },
+  "keywords": [
+    "programmer",
+    "portfolio"
+  ],
+  "author": "webstroke.pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusz-mazur/fajny-js/issues"
+  },
+  "homepage": "https://github.com/mateusz-mazur/fajny-js#readme"
+}
